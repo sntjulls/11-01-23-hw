@@ -1,3 +1,16 @@
+// Домашнє завдання 11.01.2023
+// Object
+// Створити функцію конструктор для Cattle(brand, maxVolume, minVolume)
+// Властивості:
+// brand
+// maxVolume
+// minVolume
+// currentVolume = 0
+// isOn = false
+// Методи:
+// addWater(value) //налий води
+// makeTea(value)  //відлий воду
+// turnOn()  //кип'яти
 /**
  *
  * @param {string} brand
